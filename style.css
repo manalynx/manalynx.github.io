@@ -22,12 +22,6 @@
   color: black;
 }
 
-/* Add a color to the active/current link */
-.topnav a.active {
-  background-color: #15243C;
-  color: white;
-}
-
 /* Right-aligned section inside the top navigation */
 .topnav-right {
   float: right;
