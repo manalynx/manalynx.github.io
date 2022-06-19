@@ -40,7 +40,13 @@
 
 .my-img {
 position: absolute;
-max-width:50%;
-height:auto;
+max-width:60%;
 right: 0;
+}
+
+.deco-img{
+position: absolute;
+margin-top: 0%;
+max-width:40%; 
+   
 }
