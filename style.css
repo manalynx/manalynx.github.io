@@ -35,8 +35,16 @@
 
 /* background */
 .bg-img {
+  display: block;
   width: 100%; 
 }
+
+/* decoration image */
+.deco-img{
+  position: block;
+  margin-top: 0;
+  max-width:40%;  
+  }
 
 .my-img {
 position: absolute;
@@ -44,8 +52,3 @@ max-width:60%;
 right: 0;
 }
 
-.deco-img{
-position: absolute;
-margin-top: 0%;
-max-width:40%;  
-}
