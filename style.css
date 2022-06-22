@@ -43,9 +43,10 @@
 .deco-img{
   position: block;
   margin-top: 0;
-  max-width:40%;  
+  max-width:45%;  
   }
 
+/* my image */
 .my-img {
 position: absolute;
 max-width:60%;
