@@ -44,8 +44,17 @@
 .deco-img{
   position: block;
   margin-top: 0;
-  max-width:45%;  
+  max-width:45%; 
+  vertical-align: middle; 
   }
+
+.heading {
+  position: absolute;
+  bottom: 15%;
+  left: 20%;
+  font-size: 40px;
+  font-family: sans-serif;
+}
 
 /* my image */
 .my-img {
