@@ -44,15 +44,15 @@
 .deco-img{
   position: block;
   margin-top: 0;
-  max-width:45%; 
+  max-width:42%; 
   vertical-align: middle; 
   }
 
   /* heading */
 .heading {
   position: absolute;
-  bottom: 8%;
-  left: 25%;
+  bottom: 6%;
+  left: 24%;
   font-size: 40px;
   font-family:"Lucida Console", "Courier New", monospace;
 }
@@ -64,6 +64,6 @@
 /* my image */
 .my-img {
 position: absolute;
-max-width:60%;
+max-width:55%;
 right: 0;
 }
