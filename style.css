@@ -52,7 +52,7 @@
 .heading {
   position: absolute;
   bottom: 6%;
-  left: 24%;
+  left: 22%;
   font-size: 40px;
   font-family:"Lucida Console", "Courier New", monospace;
 }
@@ -63,7 +63,16 @@
 
 /* my image */
 .my-img {
-position: absolute;
-max-width:55%;
-right: 0;
+  position: absolute;
+  top: 80%;
+  right: 0;
+  width: 60%;
+ 
+
+}
+
+.aboutMe {
+  position: absolute;
+  font-size: 40px;
+  font-family:"Lucida Console", "Courier New", monospace;
 }
