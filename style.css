@@ -75,6 +75,5 @@
   position: absolute;
   top: 100%;
   left: 12%;
-  font-size: 30px;
-  font-family:"Lucida Console", "Courier New", monospace;
+  font: 10px "Lucida Console", "Courier New", monospace;
 }
