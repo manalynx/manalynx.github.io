@@ -51,14 +51,15 @@
   /* heading */
 .heading {
   position: absolute;
- top: 100%;
-  left: 14%;
+  top: 80%;
+  left: 24%;
   font-size: 40px;
   font-family:"Lucida Console", "Courier New", monospace;
 }
 .name{
   font-family: fantasy;
   color: #FF66C4;
+  font-size: 45px;
 }
 
 /* my image */
@@ -67,12 +68,13 @@
   top: 80%;
   right: -1;
   width: 58%;
- 
-
 }
 
+/* about me */
 .aboutMe {
   position: absolute;
-  font-size: 40px;
+  top: 100%;
+  left: 12%;
+  font-size: 30px;
   font-family:"Lucida Console", "Courier New", monospace;
 }
